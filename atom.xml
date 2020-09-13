@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://loncel.github.io/"/>
-  <updated>2018-11-08T01:30:28.906Z</updated>
+  <updated>2018-11-07T08:18:56.234Z</updated>
   <id>http://loncel.github.io/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>【置顶】比赛注意事项总结</title>
-    <link href="http://loncel.github.io/2099/11/04/%E3%80%90%E7%BD%AE%E9%A1%B6%E3%80%91NOIP%202018%E8%80%83%E8%AF%95%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/"/>
-    <id>http://loncel.github.io/2099/11/04/【置顶】NOIP 2018考试注意事项/</id>
-    <published>2099-11-04T01:07:43.000Z</published>
-    <updated>2018-11-08T01:30:28.906Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="考前"><a href="#考前" class="headerlink" title="考前"></a>考前</h3><p>   将读入优化以及对拍文件准备好，放松心态，注意力集中。</p><p>   注意复习基本算法和部分DP技巧以及数据结构：</p><blockquote><p>1、基本算法：位运算、模拟、贪心、数论、二分、三分、搜索。<br>2、数据结构：并查集、哈希表、差分、倍增、链表、优先队列、dfs序、桶、单调队列、单调栈。<br>3、图论：树、SPFA、Dijkstra、最小生成树Prim、Kruskal<br>4、字符串：KMP、哈希、trie、manecher<br>5、动态规划：最大次大值、区间DP枚举端点、最长不降子序列、最长公共子序列、树的直径。<br><a id="more"></a></p></blockquote><h3 id="策略"><a href="#策略" class="headerlink" title="策略"></a>策略</h3><p>对于考试中策略问题，我为自己总结了以下几点：</p><blockquote><p><strong>0、一定要审题，审题，审题！！！</strong><br>1、先思考大约20分钟，不急着写代码，在草稿纸上演算清楚。<br>2、暴力算法优先(想不出明显正解的情况下)<br>3、如果可以用更高级的算法降低思维难度就可以考虑使用，但这是在有把握的情况下</p></blockquote><h3 id="书写代码"><a href="#书写代码" class="headerlink" title="书写代码"></a>书写代码</h3><p><strong>在代码一定要集中注意力</strong>，打一句检查一下。如果打完代码后调试出很多错误，只说明打代码是没有认真。</p><p>打代码前一定要思考明确题目是否有什么边界条件没有考虑，分类讨论是否全面。一定要弄清变量类型。</p><p>对于代码中的一些常用的点总结一下</p><blockquote><p><strong>1、注意算法是否爆空间：$\frac{sizeof(array)}{1024 \times 1024}$<br>2、在空间不超出的情况下，如果担心爆int，就开 long long,不要偷懒。<br>3、注意mod的时候是否是负数，如果是的，则需要加起来。<br>4、不要用 INT_MAX,INF使用0x3f3f3f3f十分的优秀了。<br>5、多组数据下数组，队列初始化的问题一定要注意<br>6、合理使用STL<br>7、变量名要容易识别。<br>8、打完可以运用一下自己<del>高超</del>的卡常技巧(如register)来进行时间上的优化</strong></p></blockquote><h3 id="检查"><a href="#检查" class="headerlink" title="检查"></a>检查</h3><p>如果在以上的步骤都比较完美的完成的情况下，我们只需要考虑一下题目中的数组是否开小了？是否考虑边界这些问题了。</p><h3 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h3><blockquote><p>终于结束的起点<br>终于写下句点<br>终于我们告别<br>终于我们又回到原点<br>……</p></blockquote><p>如果这次NOIP是我的起点，希望我的OI生涯如同夏花般绚烂。<br>如果这次NOIP是我的终点，希望我的OI回忆如同繁星般璀璨。</p><p>不论如何，希望我在6天后的比赛中好好发挥。</p><script type="math/tex; mode=display">\cal NOIP\ 2018\\  Go\ For\ It</script>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;考前&quot;&gt;&lt;a href=&quot;#考前&quot; class=&quot;headerlink&quot; title=&quot;考前&quot;&gt;&lt;/a&gt;考前&lt;/h3&gt;&lt;p&gt;   将读入优化以及对拍文件准备好，放松心态，注意力集中。&lt;/p&gt;
-&lt;p&gt;   注意复习基本算法和部分DP技巧以及数据结构：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1、基本算法：位运算、模拟、贪心、数论、二分、三分、搜索。&lt;br&gt;2、数据结构：并查集、哈希表、差分、倍增、链表、优先队列、dfs序、桶、单调队列、单调栈。&lt;br&gt;3、图论：树、SPFA、Dijkstra、最小生成树Prim、Kruskal&lt;br&gt;4、字符串：KMP、哈希、trie、manecher&lt;br&gt;5、动态规划：最大次大值、区间DP枚举端点、最长不降子序列、最长公共子序列、树的直径。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="OI" scheme="http://loncel.github.io/categories/OI/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>有向图 tarjan 算法</title>
@@ -91,9 +68,9 @@
       <category term="OI" scheme="http://loncel.github.io/categories/OI/"/>
     
     
-      <category term="并查集" scheme="http://loncel.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
-    
       <category term="图论" scheme="http://loncel.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+      <category term="并查集" scheme="http://loncel.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
     
       <category term="贪心" scheme="http://loncel.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
     
