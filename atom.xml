@@ -68,9 +68,9 @@
       <category term="OI" scheme="http://loncel.github.io/categories/OI/"/>
     
     
-      <category term="图论" scheme="http://loncel.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
-    
       <category term="并查集" scheme="http://loncel.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+      <category term="图论" scheme="http://loncel.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
     
       <category term="贪心" scheme="http://loncel.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
     
