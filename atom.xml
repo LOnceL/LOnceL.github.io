@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://loncel.github.io/"/>
-  <updated>2020-10-09T13:11:05.118Z</updated>
+  <updated>2020-10-09T14:00:14.072Z</updated>
   <id>http://loncel.github.io/</id>
   
   <author>
@@ -21,19 +21,23 @@
     <link href="http://loncel.github.io/2020/10/09/%E6%9F%AF%E8%A5%BF%E6%94%B6%E6%95%9B%E5%87%86%E5%88%99/"/>
     <id>http://loncel.github.io/2020/10/09/柯西收敛准则/</id>
     <published>2020-10-09T12:29:43.000Z</published>
-    <updated>2020-10-09T13:11:05.118Z</updated>
+    <updated>2020-10-09T14:00:14.072Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="柯西收敛准则的证明"><a href="#柯西收敛准则的证明" class="headerlink" title="柯西收敛准则的证明"></a>柯西收敛准则的证明</h2><h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><p>$\forall \varepsilon &gt; 0, \exists N &gt; 0$,当$n,m \geq 0$时，有$|a_n-a_m| &lt; \varepsilon \iff {a_n}$ 收敛于$A$</p><h3 id="证明过程"><a href="#证明过程" class="headerlink" title="证明过程"></a>证明过程</h3><h4 id="必要性"><a href="#必要性" class="headerlink" title="必要性"></a>必要性</h4><p>令$\lim_{n \to \infty}=A$,<br>则 $\forall &gt; 0, \exists N,当n,m \geq 0 时，|a_n-A|&lt;\frac{\varepsilon}{2}且|a_m-A|&lt;\frac{\varepsilon}{2}$ </p>]]></content>
+    <content type="html"><![CDATA[<h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><p>$\forall \varepsilon &gt; 0, \exists N &gt; 0$,当$n,m \geq 0$时，有$|a_n-a_m| &lt; \varepsilon \iff {a_n}$ 收敛于$A$</p><h3 id="证明过程"><a href="#证明过程" class="headerlink" title="证明过程"></a>证明过程</h3><h4 id="必要性"><a href="#必要性" class="headerlink" title="必要性"></a>必要性</h4><p>令$\lim_{n \to \infty}=A$,</p><p>则 $\forall &gt; 0, \exists N,当n,m \geq 0 时，|a_n-A|&lt;\frac{\varepsilon}{2}且|a_m-A|&lt;\frac{\varepsilon}{2}$ </p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;柯西收敛准则的证明&quot;&gt;&lt;a href=&quot;#柯西收敛准则的证明&quot; class=&quot;headerlink&quot; title=&quot;柯西收敛准则的证明&quot;&gt;&lt;/a&gt;柯西收敛准则的证明&lt;/h2&gt;&lt;h3 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; 
+        &lt;h3 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内容&lt;/h3&gt;&lt;p&gt;$\forall \varepsilon &amp;gt; 0, \exists N &amp;gt; 0$,当$n,m \geq 0$时，有$|a_n-a
       
     
     </summary>
     
+      <category term="Math" scheme="http://loncel.github.io/categories/Math/"/>
+    
+    
+      <category term="Calculus" scheme="http://loncel.github.io/tags/Calculus/"/>
     
   </entry>
   
@@ -89,9 +93,9 @@
       <category term="OI" scheme="http://loncel.github.io/categories/OI/"/>
     
     
-      <category term="并查集" scheme="http://loncel.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
-    
       <category term="图论" scheme="http://loncel.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+      <category term="并查集" scheme="http://loncel.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
     
       <category term="贪心" scheme="http://loncel.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
     
