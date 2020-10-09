@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://loncel.github.io/"/>
-  <updated>2018-11-07T08:18:56.234Z</updated>
+  <updated>2020-10-09T12:29:43.037Z</updated>
   <id>http://loncel.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>柯西收敛准则</title>
+    <link href="http://loncel.github.io/2020/10/09/%E6%9F%AF%E8%A5%BF%E6%94%B6%E6%95%9B%E5%87%86%E5%88%99/"/>
+    <id>http://loncel.github.io/2020/10/09/柯西收敛准则/</id>
+    <published>2020-10-09T12:29:43.000Z</published>
+    <updated>2020-10-09T12:29:43.037Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Thoughts</title>
+    <link href="http://loncel.github.io/2020/10/06/%E2%80%9D%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/"/>
+    <id>http://loncel.github.io/2020/10/06/”一点感想/</id>
+    <published>2020-10-06T12:05:18.000Z</published>
+    <updated>2020-10-07T13:16:08.376Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.loli.net/2020/10/07/nUJitvfZoYDHS4y.jpg" alt="IMG_1007_20201001-124304_1.jpg"><br>   <a id="more"></a></p><p>   当桂花被瑟瑟秋雨打落树梢，我也步入了大学的殿堂。</p><p>   虽说十分遗憾的没有进入自己原先所想的物理系</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/10/07/nUJitvfZoYDHS4y.jpg&quot; alt=&quot;IMG_1007_20201001-124304_1.jpg&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>有向图 tarjan 算法</title>
@@ -68,9 +100,9 @@
       <category term="OI" scheme="http://loncel.github.io/categories/OI/"/>
     
     
-      <category term="图论" scheme="http://loncel.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
-    
       <category term="并查集" scheme="http://loncel.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+      <category term="图论" scheme="http://loncel.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
     
       <category term="贪心" scheme="http://loncel.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
     
