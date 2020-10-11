@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://loncel.github.io/"/>
-  <updated>2020-10-09T14:00:14.072Z</updated>
+  <updated>2020-10-11T03:08:29.146Z</updated>
   <id>http://loncel.github.io/</id>
   
   <author>
@@ -21,16 +21,13 @@
     <link href="http://loncel.github.io/2020/10/09/%E6%9F%AF%E8%A5%BF%E6%94%B6%E6%95%9B%E5%87%86%E5%88%99/"/>
     <id>http://loncel.github.io/2020/10/09/柯西收敛准则/</id>
     <published>2020-10-09T12:29:43.000Z</published>
-    <updated>2020-10-09T14:00:14.072Z</updated>
+    <updated>2020-10-11T03:08:29.146Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><p>$\forall \varepsilon &gt; 0, \exists N &gt; 0$,当$n,m \geq 0$时，有$|a_n-a_m| &lt; \varepsilon \iff {a_n}$ 收敛于$A$</p><h3 id="证明过程"><a href="#证明过程" class="headerlink" title="证明过程"></a>证明过程</h3><h4 id="必要性"><a href="#必要性" class="headerlink" title="必要性"></a>必要性</h4><p>令$\lim_{n \to \infty}=A$,</p><p>则 $\forall &gt; 0, \exists N,当n,m \geq 0 时，|a_n-A|&lt;\frac{\varepsilon}{2}且|a_m-A|&lt;\frac{\varepsilon}{2}$ </p>]]></content>
+    <content type="html"><![CDATA[<h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><p>$\forall \varepsilon &gt; 0, \exists N &gt; 0$,当$n,m \geq 0$时，有$|a_n-a_m| &lt; \varepsilon \iff {a_n}$ 收敛于$A$<br><a id="more"></a></p><h3 id="证明过程"><a href="#证明过程" class="headerlink" title="证明过程"></a>证明过程</h3><h4 id="必要性"><a href="#必要性" class="headerlink" title="必要性"></a>必要性</h4><p>令$\lim_{n \to \infty}=A$,</p><p>则 $\forall &gt; 0, \exists N,$当$n,m \geq 0 $时，$|a_n-A|&lt;\frac{\varepsilon}{2}$且$|a_m-A|&lt;\frac{\varepsilon}{2}$ </p><h4 id="充分性"><a href="#充分性" class="headerlink" title="充分性"></a>充分性</h4><p>若$\forall \varepsilon &gt; 0, \exists N &gt; 0 s.t. $当$n,m \geq N $时，$|a_n-a_m| &lt; \varepsilon$</p><p>特别地 $|a_n-a_N|&lt; \varepsilon,$即$a_N-\varepsilon &lt; a_n &lt; a_N + \varepsilon$</p><p>取$M=\max{|a_1|,|a_2|,|a_3|,|a_4|,…,|a_N|,|a_N-\varepsilon|,|a_N+\varepsilon}$</p><p>则 $\forall n \geq 1$ 有 $|a_n| \leq M$ 即 ${a_n}$ 有界</p><p>由致密性定理 $\exists$子列${a<em>{n_k}} \sub {a_n}\ \ s.t. \lim</em>{k \to \infty}a_{n_k}=A\ (a \in \Bbb{R})$</p><p>当$k$足够大时 $n_k &gt; N$</p><p>   此时对$\forall n \geq N$ 有 $|a<em>n - a</em>{n_k}| &lt; \varepsilon$ </p><p>   由极限的保不等式性  让$k \to \infty$ , 则有$|a_n-A| leq \varepsilon$</p><script type="math/tex; mode=display">\therefore \lim_{n \to \infty}a_n=A</script>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h3 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内容&lt;/h3&gt;&lt;p&gt;$\forall \varepsilon &amp;gt; 0, \exists N &amp;gt; 0$,当$n,m \geq 0$时，有$|a_n-a
-      
+      &lt;h3 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内容&lt;/h3&gt;&lt;p&gt;$\forall \varepsilon &amp;gt; 0, \exists N &amp;gt; 0$,当$n,m \geq 0$时，有$|a_n-a_m| &amp;lt; \varepsilon \iff {a_n}$ 收敛于$A$&lt;br&gt;
     
     </summary>
     
