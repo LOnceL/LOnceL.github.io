@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>MBTI</title>
+      <link href="/posts/20040.html"/>
+      <url>/posts/20040.html</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title="#"></a>#</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 思考 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>弦&amp;棒的振动</title>
       <link href="/posts/42549.html"/>
       <url>/posts/42549.html</url>
@@ -70,9 +95,9 @@
       
         <tags>
             
-            <tag> 图论 </tag>
-            
             <tag> 并查集 </tag>
+            
+            <tag> 图论 </tag>
             
             <tag> 贪心 </tag>
             
@@ -288,9 +313,9 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -299,9 +324,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
